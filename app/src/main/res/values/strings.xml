@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Rides</string>
+    <string name="get_vehicle_data">Get vehicle Data</string>
+    <string name="enter_the_number_of_vehicle_to_get_detailed_data">Enter the number of Vehicle to get detailed data</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <!--Internet Custom Dialog-->
+    <string name="title_no_internet">No Internet.!!</string>
+    <string name="msg_no_internet">There is no internet connection..!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="car_detail">Car Detail</string>
+    <string name="value_error_msg">Sorry,value of records must between 1 to 100</string>
+    <string name="empty_error_msg">Value can not be empty</string>
+    <string name="carbon_emission">Carbon Emission</string>
+    <string name="calculated_carbon_emissions">Calculated Carbon Emissions</string>
+</resources>
